@@ -89,6 +89,7 @@ Subject Project is provided “as is” to all Participants without any warranty
 
 Only warranties and liabilities on tasks or products covered by an authority certification, given to a specific Participant, to a related works of Subject Project will be accepted by this Participant.
 
+
 ## 10. Revised versions of the license 
 
 Bee-Plane may publish revised and/or new versions of Lesser Open Bee License. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns. Each version is given a distinguishing version number. Works have to be ordered and achieved with a reference to a specific version number. Work started with a Lesser Open Bee License and a specific version number may change license or version number with unanimous acceptance by all Participants of the related works.
